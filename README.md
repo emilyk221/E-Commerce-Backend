@@ -15,7 +15,7 @@
   You can clone the code from the GitHub repository linked below.
 
   ## Usage
-  You can use this code as a starting point for the backend of an ecommerce website. A walkthrough video showing mock product data being seeded into the tables in the database, sequelize syncing to the database, as well as the API routes being tested using insomnia can be found [here](). 
+  You can use this code as a starting point for the backend of an ecommerce website. A walkthrough video showing mock product data being seeded into the tables in the database, sequelize syncing to the database, as well as the API routes being tested using insomnia can be found [here](https://drive.google.com/file/d/1i1zcN_2GniLymcGJ15HCYal1cveg02il/view?usp=sharing). 
 
   ## License
   
